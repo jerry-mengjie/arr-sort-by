@@ -1,0 +1,31 @@
+{
+  "name": "arr-sort-by",
+  "version": "1.0.4",
+  "description": "A good function of array sortBy prop.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerry-mengjie/arr-sort-by.git"
+  },
+  "keywords": [
+    "arr-sort-by",
+    "sortBy",
+    "array sortBy",
+    "array sort",
+    "array sortBy prop"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerry-mengjie/arr-sort-by/issues"
+  },
+  "homepage": "https://github.com/jerry-mengjie/arr-sort-by#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
