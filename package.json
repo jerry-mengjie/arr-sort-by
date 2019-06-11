@@ -1,6 +1,6 @@
 {
   "name": "arr-sort-by",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A good function of array sortBy prop.",
   "main": "lib/index.js",
   "scripts": {
